@@ -20,7 +20,7 @@ chatING is a simple, retro-style chat application that runs on a local network. 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/chatING.git
+   git clone https://github.com/qSharpy/chatING.git
    cd chatING
    ```
 
