@@ -1,7 +1,8 @@
 # chatING
 
 chatING is a simple, retro-style chat application that runs on a local network. It allows users to send text messages and images in a shared chat room, providing a nostalgic chatting experience reminiscent of early internet chat rooms.
-
+![Screenshot 1](ss1.png)
+![Screenshot 2](ss2.png)
 ## Features
 
 - Text messaging
