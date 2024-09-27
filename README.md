@@ -49,7 +49,7 @@ chatING is a simple, retro-style chat application that runs on a local network. 
 
 2. Run the Python script:
    ```
-   python chatING.py
+   python server.py
    ```
 
 3. The server will start, and you'll see a message with the URL to access the chat.
